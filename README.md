@@ -8,10 +8,12 @@ Esta experiencia despertó mi interés en el análisis de datos, lo que me impul
 
 ## Encuéntrame en:
 
-[![Discord](https://img.shields.io/badge/antony_carranza?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://antony_carranza.com/discord)
+[![Discord](https://img.shields.io/badge/antony_carranza-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](1308518220013109339)
 </br>
-[![LinkedIn](https://img.shields.io/badge/antony-carranza?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antony-carranza-971505199/)
+[![LinkedIn](https://img.shields.io/badge/antony_carranza-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antony-carranza-971505199/)
+
+---
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/antony.carranza.ia@hotmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/antony.carranza.ia@hotmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:antony.carranza.ia@hotmail.com)
